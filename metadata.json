@@ -1,0 +1,5 @@
+{
+  "name": "Student Attendance Management System",
+  "description": "A secure, single-page web application to manage and report on student attendance. It allows teachers to input attendance data easily and provides administrators with powerful, filtered views for monitoring student performance.",
+  "requestFramePermissions": []
+}
